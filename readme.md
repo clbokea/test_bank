@@ -1,6 +1,6 @@
 # Bank Example
 Used in SWD classes at KEA.    
-Shows the way from the problem description over [_Use Case Diagram_](#use-case-diagram), _Use Cases_, _System Sequence Diagram_, _Noun List_, _Domain Model_, _Class Diagram_ to the actual _Java Code_. 
+Shows the way from the problem description over [_Use Case Diagram_](#use-case-diagram), [_Use Cases_](#use-cases), _System Sequence Diagram_, _Noun List_, _Domain Model_, _Class Diagram_ to the actual _Java Code_. 
 
 ## Description
 A customer opens a bank account in a bank.   
@@ -31,4 +31,37 @@ The Customer requests to deposit money. The bank calculates the interest based o
 #### UC#3: Check Balance
 Actor: Customer    
 Customer requests to see the balance of his account.     
-The account number and name of the customer together with the balance is displayed.    
+The account number and name of the customer together with the balance is displayed.   
+
+## System Sequence Diagram 
+
+
+
+## Noun List
+
+
+
+
+## Domain Model
+
+
+
+
+## Verb List
+
+
+## In which Class do the Methods belong?
+
+
+
+## Class Diagram
+
+
+
+## Class Relations
+
+### Assosiation
+
+### Aggregation
+
+### Composition
