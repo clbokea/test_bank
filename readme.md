@@ -48,7 +48,7 @@ The account number and name of the customer together with the balance is display
 
 
 ## Verb List
-These words are like the Noun List found in the Use Cases.   
+These words are, like the Noun List, found in the Use Cases. They are the methods in the Classes   
 Verbs = Actions = Methods   
 
 Withdraw   
@@ -64,8 +64,8 @@ Check Balance
 <tr>
 <td><img src="https://github.com/dat16j/bank_example/blob/master/img/MethodAccont.png"></td>
 <td>withdraw()   
-deposit()
-checkBalance()
+deposit()   
+checkBalance()   
 </td>
 <td><img src="https://github.com/dat16j/bank_example/blob/master/img/MethodCustomer.png"></td>
 </tr>
