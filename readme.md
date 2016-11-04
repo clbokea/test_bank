@@ -63,9 +63,9 @@ Check Balance
 <table>
 <tr>
 <td><img src="https://github.com/dat16j/bank_example/blob/master/img/MethodAccont.png"></td>
-<td>withdraw()<br>   
-deposit()<br>
-checkBalance()<br>   
+<td><h3>withdraw()</h3> 
+<h3>deposit()</h3>
+<h3>checkBalance()</h3> 
 </td>
 <td><img src="https://github.com/dat16j/bank_example/blob/master/img/MethodCustomer.png"></td>
 </tr>
