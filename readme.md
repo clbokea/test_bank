@@ -44,7 +44,7 @@ The account number and name of the customer together with the balance is display
 
 ## Domain Model
 
-https://github.com/dat16j/bank_example/blob/master/img/DomainModel.png
+![Domain Model](https://github.com/dat16j/bank_example/blob/master/img/DomainModel.png)
 
 
 ## Verb List
