@@ -1,5 +1,6 @@
 # Bank Example
-Used in SWD classes at KEA. Shows the way from the problems description over _Use Case Diagram_, Use Cases, System Sequence Diagram 
+Used in SWD classes at KEA.    
+Shows the way from the problem description over _Use Case Diagram_, _Use Cases_, _System Sequence Diagram_, _Noun List_, _Domain Model_, _Class Diagram_ to the actual _Java Code_. 
 
 ## Description
 A customer opens a bank account in a bank.   
