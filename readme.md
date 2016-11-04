@@ -1,17 +1,18 @@
 # Bank Example
-## Used in SWD classes at KEA
+Used in SWD classes at KEA. Shows the way from the problems description over _Use Case Diagram_, Use Cases, System Sequence Diagram 
 
-### Description
+## Description
 A customer opens a bank account in a bank.   
 After opening the account the customer can withdraw, deposit and check his balance at any time he wants.    
 The bank charges a fee of 10kr. for every withdraw a customer makes.    
 The Customer can not withdraw more money than is on the account including the fee.    
 The bank also has an interest rate of 8.5%, which is used for calculating a certain amount of interest on the amount deposited by the customer.    
 
-### Define the actor(s) and the possible use cases from the Description above
+## Use Case Diagram
+Define the actor(s) and the possible use cases from the Description above
 ![Use Case Diagram]()
 
-### Use Cases
+## Use Cases
 #### UC#1: Withdraw Money   
 Actor: Customer   
 Customer requests to withdraw money from his account and specifies the amount.    
