@@ -48,11 +48,28 @@ The account number and name of the customer together with the balance is display
 
 
 ## Verb List
+These words are like the Noun List found in the Use Cases.   
+Verbs = Actions = Methods   
 
+Withdraw   
+get fee   
+Deposit   
+Calculate interest   
+Add to balance   
+Check Balance   
 
 ## Class Methods
 
-
+<table>
+<tr>
+<td>![Account.png](https://github.com/dat16j/bank_example/blob/master/img/MethodAccont.png)</td>
+<td>withdraw()   
+deposit()
+checkBalance()
+</td>
+<td>![Customer.png](https://github.com/dat16j/bank_example/blob/master/img/MethodCustomer.png)</td>
+</tr>
+</table>
 
 ## Class Diagram
 
