@@ -62,12 +62,12 @@ Check Balance
 
 <table>
 <tr>
-<td>![Account.png](https://github.com/dat16j/bank_example/blob/master/img/MethodAccont.png)</td>
+<td><img src="https://github.com/dat16j/bank_example/blob/master/img/MethodAccont.png"></td>
 <td>withdraw()   
 deposit()
 checkBalance()
 </td>
-<td>![Customer.png](https://github.com/dat16j/bank_example/blob/master/img/MethodCustomer.png)</td>
+<td><img src="https://github.com/dat16j/bank_example/blob/master/img/MethodCustomer.png"></td>
 </tr>
 </table>
 
