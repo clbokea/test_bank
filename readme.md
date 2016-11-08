@@ -20,6 +20,8 @@ Define the actor(s) and the possible _Use Cases_ from the Description above
 ![Use Case Diagram](https://github.com/dat16j/bank_example/blob/master/img/UseCaseDiagram.png)
 
 ## Use Cases
+Write the above use cases in brief, casual or fully dressed versions.   
+
 #### UC#1: Withdraw Money   
 Actor: Customer   
 Customer requests to withdraw money from his account and specifies the amount.    
