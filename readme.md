@@ -1,6 +1,10 @@
 # Bank Example
-Used in SWD classes at KEA.    
-Shows the way from the problem description over [_Use Case Diagram_](#use-case-diagram), [_Use Cases_](#use-cases), [_System Sequence Diagram_](#system-sequence-diagram), [_Noun List_](#noun-list), [_Domain Model_](#domain-model), [_Verb List_](#verb-list), [_Class Diagram_](#class-diagram) to the actual _Java Code_. 
+Object Oriented Analasis, Design and Programming.    
+Shows the way from the problem description over [_Use Case Diagram_](#use-case-diagram), [_Use Cases_](#use-cases), 
+[_System Sequence Diagram_](#system-sequence-diagram), [_Noun List_](#noun-list), [_Domain Model_](#domain-model), 
+[_Verb List_](#verb-list), [_Class Diagram_](#class-diagram) to the actual _Java Code_.    
+
+You can see this as a Method for 
 
 ## Description
 A customer opens a bank account in a bank.   
