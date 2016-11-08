@@ -1,10 +1,12 @@
 # Bank Example
-Object Oriented Analasis, Design and Programming.    
-Shows the way from the problem description over [_Use Case Diagram_](#use-case-diagram), [_Use Cases_](#use-cases), 
+An example of Object Oriented Analysis, Design and Programming.   
+Shows the way from the _problem description_ over [_Use Case Diagram_](#use-case-diagram), [_Use Cases_](#use-cases), 
 [_System Sequence Diagram_](#system-sequence-diagram), [_Noun List_](#noun-list), [_Domain Model_](#domain-model), 
 [_Verb List_](#verb-list), [_Class Diagram_](#class-diagram) to the actual _Java Code_.    
 
-You can see this as a Method for 
+This is a step by step Technique for getting from a well written _Use Case_ to the actual _Code_ without 
+"guessing", "thinking" or just creating a class out of the blue. If a Use Case is well written it will decide 
+exactly what classes, attribuetes and methods will apear in the final code.   
 
 ## Description
 A customer opens a bank account in a bank.   
