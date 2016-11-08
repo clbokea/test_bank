@@ -89,6 +89,7 @@ Check Balance
 </table>
 
 ## Class Diagram
+![Class Diagram](https://github.com/dat16j/bank_example/blob/master/img/ClassDiagram.png)
 
 
 
