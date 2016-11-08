@@ -42,12 +42,21 @@ Customer requests to see the balance of his account.
 The account number and name of the customer together with the balance is displayed.   
 
 ## System Sequence Diagram 
+A graphical version of a Use Case is called a System Sequence Diagram and will look like this.
+
 
 
 
 ## Noun List
+From the Use Cases you should identify all the _Nouns_. These nouns are the objects and 
+attributes of the object in a Domain Model.
 
-
+Customer, Money, 
+Account, Amount, 
+Bank, Fee, Balance, 
+Error message, 
+interest, interest rate, Account Number, 
+Customer Name, 
 
 
 ## Domain Model
