@@ -94,13 +94,15 @@ _(Hint: Methods should either **read** or **change** the data of the object)_
 </table>
 
 **Solution**      
+      
+      
 They all goes into _Account_ Class, hence they either _read_ or _change_ the attributes of this class
 <table>
 <tr>
 <td><img src="https://github.com/dat16j/bank_example/blob/master/img/MethodAccountII.png" width="200"></td>
-<td><h3>withdraw()</h3> 
-<h3>deposit()</h3>
-<h3>checkBalance()</h3> 
+<td><h3></h3> 
+<h3></h3>
+<h3></h3> 
 </td>
 <td><img src="https://github.com/dat16j/bank_example/blob/master/img/MethodCustomer.png" width="200"></td>
 </tr>
