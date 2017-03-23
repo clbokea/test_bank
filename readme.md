@@ -19,8 +19,7 @@ The bank charges a fee of 10kr. for every withdraw a customer makes.
 The Customer can not withdraw more money than is on the account including the fee.    
 The bank also has an interest rate of 8.5%, which is used for calculating a certain amount of interest on the amount deposited by the customer.    
 The Customer are allowed to have several accounts in this bank.     
-## Use Case Diagram
-**Task:** Define the actor(s) and the possible _Use Cases_ from the Description above
+
 
 
      
