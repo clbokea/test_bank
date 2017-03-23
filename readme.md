@@ -120,7 +120,10 @@ They all goes into _Account_ Class, hence they either _read_ or _change_ the att
 
 ## Class Relations
 **Task:** Add an association to the Class Diagram above.    
-It should either be of the type: _Assosiation_, _Aggregation_ or _Composition_    
+It should either be of the type: _Assosiation_, _Aggregation_ or _Composition_     
+      
+![Composition](https://github.com/dat16j/bank_example/blob/master/img/class_composition.png)
+
 
 ## Code
 **Task:** Based on your Class Diagram, create the Java _Classes_ with _Methods_ and _Attributes_    
