@@ -109,11 +109,6 @@ They all goes into _Account_ Class, hence they either _read_ or _change_ the att
 </table>
 
 
-
-## Class Diagram
-**Task:** Create a _Class Diagram_ containing _Customer_ and _Account_
-
-
      
      
 &copy; Kea, clbo@kea.dk 2016
