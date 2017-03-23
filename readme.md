@@ -62,7 +62,7 @@ Customer Name
 </pre>
    
 ## Domain Model
-**Task:** Based on the Noun List, create a  _Domain Model_     
+**Task:** Based on the Noun List, create a  _Domain Model_ with named _Associations_ and _Multiplicity_     
 
 ![Domain Model](https://github.com/dat16j/bank_example/blob/master/img/DomainModel.png)
 
