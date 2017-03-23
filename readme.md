@@ -20,7 +20,7 @@ The bank also has an interest rate of 8.5%, which is used for calculating a cert
 ![Use Case Diagram](https://github.com/dat16j/bank_example/blob/master/img/UseCaseDiagram.png)
 
 ## Use Cases
-Write the above use cases in brief, casual or fully dressed versions.   
+**Task:** Write the above use cases in brief, casual or fully dressed versions.   
 
 #### UC#1: Withdraw Money   
 Actor: Customer   
