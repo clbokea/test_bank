@@ -69,14 +69,7 @@ Customer Name
 ## Verb List
 **Task:** Create a _Verb List_    
 The vers, like the nound, are found in the Use Cases. They are the methods in the Classes   
-Verbs = Actions = Methods   
-
-Withdraw   
-Display error message  
-Deposit   
-Calculate interest   
-Add to balance   
-Check Balance   
+Verbs = Actions = Methods     
 
 
      
