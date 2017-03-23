@@ -69,7 +69,7 @@ These words are, like the Noun List, found in the Use Cases. They are the method
 Verbs = Actions = Methods   
 
 Withdraw   
-get fee   
+Display error message  
 Deposit   
 Calculate interest   
 Add to balance   
