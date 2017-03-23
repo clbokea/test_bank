@@ -93,6 +93,9 @@ _(Hint: Methods should either **read** or **change** the data of the object)_
 </tr>
 </table>
 
+**Solution**    
+![Solution](https://github.com/dat16j/bank_example/blob/master/img/MethodAccountII.png)
+
 ## Class Diagram
 **Task:** Create a _Class Diagram_ containing _Customer_ and _Account_
 ![Class Diagram](https://github.com/dat16j/bank_example/blob/master/img/ClassDiagram.png)
