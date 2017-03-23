@@ -22,10 +22,6 @@ The Customer are allowed to have several accounts in this bank.
 ## Use Case Diagram
 **Task:** Define the actor(s) and the possible _Use Cases_ from the Description above
 ![Use Case Diagram](https://github.com/dat16j/bank_example/blob/master/img/UseCaseDiagram.png)
-
-## Use Cases
-**Task:** Write the above use cases in brief, casual or fully dressed versions.   
-
  
 
      
