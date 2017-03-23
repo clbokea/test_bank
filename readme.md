@@ -112,9 +112,6 @@ They all goes into _Account_ Class, hence they either _read_ or _change_ the att
 
 ## Class Diagram
 **Task:** Create a _Class Diagram_ containing _Customer_ and _Account_
-      
-
-![Class Diagram](https://github.com/dat16j/bank_example/blob/master/img/bank_class_1.png)
 
 
      
