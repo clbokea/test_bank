@@ -100,9 +100,5 @@ _(Hint: Methods should either **read** or **change** the data of the object)_
 
 
 ## Class Relations
-
-### Assosiation
-
-### Aggregation
-
-### Composition
+**Task:** Add an association to the Class Diagram above.    
+It should either be of the type: _Assosiation_, _Aggregation_ or _Composition_
