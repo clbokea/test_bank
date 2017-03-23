@@ -110,4 +110,4 @@ It should either be of the type: _Assosiation_, _Aggregation_ or _Composition_
 This concludes the Object Oriented Analasys, Design and Programming circle.     
 As you will have noticed a lot of code is still missing for you to have a fully working bank example.    
 
-**Tast:** Finish the program, and remember to update the affected diagram and use cases if somthing changes.
+**Task:** Finish the program, and remember to update the affected diagram and use cases if somthing changes.
