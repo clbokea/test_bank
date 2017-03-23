@@ -65,11 +65,7 @@ Customer Name
 **Task:** Based on the Noun List, create a  _Domain Model_ with named _Associations_ and _Multiplicity_      
 
 ![](https://github.com/dat16j/bank_example/blob/master/img/DomainModelBank-3.png)
-
-## Verb List
-**Task:** Create a _Verb List_    
-The vers, like the nound, are found in the Use Cases. They are the methods in the Classes   
-Verbs = Actions = Methods     
+   
 
 
      
