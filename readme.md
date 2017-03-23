@@ -101,4 +101,7 @@ _(Hint: Methods should either **read** or **change** the data of the object)_
 
 ## Class Relations
 **Task:** Add an association to the Class Diagram above.    
-It should either be of the type: _Assosiation_, _Aggregation_ or _Composition_
+It should either be of the type: _Assosiation_, _Aggregation_ or _Composition_    
+
+## Code
+**Task:** Based on your Class Diagram, create the Java _Classes_ with _Methods_ and _Attributes_
