@@ -62,9 +62,10 @@ Customer Name
 </pre>
    
 ## Domain Model
-**Task:** Based on the Noun List, create a  _Domain Model_ with named _Associations_ and _Multiplicity_     
+**Task:** Based on the Noun List, create a  _Domain Model_ with named _Associations_ and _Multiplicity_    
+
+
 ![](https://github.com/dat16j/bank_example/blob/master/img/DomainModelScreenShoot.png)
-![Domain Model](https://github.com/dat16j/bank_example/blob/master/img/DomainModel.png)
 
 ## Verb List
 **Task:** Create a _Verb List_    
