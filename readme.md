@@ -127,6 +127,9 @@ It should either be of the type: _Assosiation_, _Aggregation_ or _Composition_
 
 ## Code
 **Task:** Based on your Class Diagram, create the Java _Classes_ with _Methods_ and _Attributes_    
+    
+* [Account.java](https://github.com/dat16j/bank_example/blob/master/Account.java)
+* [Customer.java](https://github.com/dat16j/bank_example/blob/master/Customer.java)
 
 ## Finnish your program
 This concludes the Object Oriented Analasys, Design and Programming circle.     
