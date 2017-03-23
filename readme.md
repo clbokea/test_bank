@@ -67,7 +67,8 @@ Customer Name
 ![Domain Model](https://github.com/dat16j/bank_example/blob/master/img/DomainModel.png)
 
 ## Verb List
-These words are, like the Noun List, found in the Use Cases. They are the methods in the Classes   
+**Task:** Create a _Verb List_    
+These words, like the Noun List, are found in the Use Cases. They are the methods in the Classes   
 Verbs = Actions = Methods   
 
 Withdraw   
