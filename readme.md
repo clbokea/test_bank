@@ -8,7 +8,7 @@ This is a step by step Technique for getting from a well written _Use Case_ to t
 "guessing", "thinking" or just creating a class out of the blue. If a Use Case is well written it will decide 
 exactly what classes, attribuetes and methods will apear in the final code.  
 
-In this repository you will find **_Tasks_**, and when you have solved the tasks the solution for these tasks will be added. You can browse through the tasks and solutions in the _Tag_ menu, in the top left of this page ![tags](https://github.com/dat16j/bank_example/blob/master/img/tags.png =100x50)
+In this repository you will find **_Tasks_**, and when you have solved the tasks the solution for these tasks will be added. You can browse through the tasks and solutions in the _Tag_ menu, in the top left of this page <img scr="/img/tags.png" width="100">
 
 ## Description
 A customer opens a bank account in a bank.   
