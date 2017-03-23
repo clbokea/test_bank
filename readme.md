@@ -104,4 +104,10 @@ _(Hint: Methods should either **read** or **change** the data of the object)_
 It should either be of the type: _Assosiation_, _Aggregation_ or _Composition_    
 
 ## Code
-**Task:** Based on your Class Diagram, create the Java _Classes_ with _Methods_ and _Attributes_
+**Task:** Based on your Class Diagram, create the Java _Classes_ with _Methods_ and _Attributes_    
+
+## Finnish your program
+This concludes the Object Oriented Analasys, Design and Programming circle.     
+As you will have noticed a lot of code is still missing for you to have a fully working bank example.    
+
+**Tast:** Finish the program, and remember to update the affected diagram and use cases if somthing changes.
