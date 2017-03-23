@@ -54,15 +54,16 @@ The account number and name of the customer together with the balance is display
 ## Noun List
 **Task:** From the Use Cases you should identify all the _Nouns_. These nouns are the objects and 
 attributes of the object in a Domain Model.
-````
+
+<pre>
 Customer, Money, 
 Account, Amount, 
 Bank, Fee, Balance, 
 Error message, 
 interest, interest rate, Account Number, 
-Customer Name, ````    
-
-
+Customer Name     
+</pre>
+   
 ## Domain Model
 
 ![Domain Model](https://github.com/dat16j/bank_example/blob/master/img/DomainModel.png)
