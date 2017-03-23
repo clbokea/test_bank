@@ -47,10 +47,6 @@ The account number and name of the customer together with the balance is display
 
 ## System Sequence Diagram 
 **Task:** A graphical version of a Use Case is called a System Sequence Diagram (SSD) Create one for each Use Case.
-
-
-
-
      
      
 &copy; Kea, clbo@kea.dk 2016
