@@ -45,8 +45,6 @@ Actor: Customer
 Customer requests to see the balance of his account.     
 The account number and name of the customer together with the balance is displayed.   
 
-## System Sequence Diagram 
-**Task:** A graphical version of a Use Case is called a System Sequence Diagram (SSD) Create one for each Use Case.
      
      
 &copy; Kea, clbo@kea.dk 2016
