@@ -48,9 +48,6 @@ The account number and name of the customer together with the balance is display
 ## System Sequence Diagram 
 **Task:** A graphical version of a Use Case is called a System Sequence Diagram (SSD) Create one for each Use Case.
 
-
-
-
 ## Noun List
 **Task:** From the Use Cases you should identify all the _Nouns_. These nouns are the objects and 
 attributes of the object in a Domain Model.
@@ -65,9 +62,9 @@ Customer Name
 </pre>
    
 ## Domain Model
+**Task:** Based on the Noun List, create a  _Domain Model_     
 
 ![Domain Model](https://github.com/dat16j/bank_example/blob/master/img/DomainModel.png)
-
 
 ## Verb List
 These words are, like the Noun List, found in the Use Cases. They are the methods in the Classes   
