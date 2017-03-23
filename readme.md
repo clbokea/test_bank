@@ -13,12 +13,12 @@ In this repository you will find **_Tasks_**, and when you have solved the tasks
 <img src="/img/tags.png" width="300">
 
 ## Description
-A customer opens a bank account in a bank.   
+A Customer opens a bank account in a bank.   
 After opening the account the customer can withdraw, deposit and check his balance at any time he wants.    
 The bank charges a fee of 10kr. for every withdraw a customer makes.    
 The Customer can not withdraw more money than is on the account including the fee.    
 The bank also has an interest rate of 8.5%, which is used for calculating a certain amount of interest on the amount deposited by the customer.    
-
+The Customer are allowed to have several accounts in this bank.     
 ## Use Case Diagram
 **Task:** Define the actor(s) and the possible _Use Cases_ from the Description above
 ![Use Case Diagram](https://github.com/dat16j/bank_example/blob/master/img/UseCaseDiagram.png)
