@@ -16,7 +16,7 @@ The Customer can not withdraw more money than is on the account including the fe
 The bank also has an interest rate of 8.5%, which is used for calculating a certain amount of interest on the amount deposited by the customer.    
 
 ## Use Case Diagram
-* Task: Define the actor(s) and the possible _Use Cases_ from the Description above *
+*Task: Define the actor(s) and the possible _Use Cases_ from the Description above*
 ![Use Case Diagram](https://github.com/dat16j/bank_example/blob/master/img/UseCaseDiagram.png)
 
 ## Use Cases
