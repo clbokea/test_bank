@@ -80,7 +80,7 @@ Check Balance
 
 ## Class Methods
 **Task:** Where would you put these methods?    
-(Hint: Remember methods can either read or change the data of the object)     
+_(Hint: Methods should either **read** or **change** the data of the object)_     
 
 <table>
 <tr>
