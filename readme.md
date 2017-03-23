@@ -52,15 +52,6 @@ The account number and name of the customer together with the balance is display
 **Task:** From the Use Cases you should identify all the _Nouns_. These nouns are the objects and 
 attributes of the object in a Domain Model.
 
-<pre>
-Customer, Money, 
-Account, Amount, 
-Bank, Fee, Balance, 
-Error message, 
-interest, interest rate, Account Number, 
-Customer Name     
-</pre>
-
 
      
      
