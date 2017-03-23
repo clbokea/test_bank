@@ -130,9 +130,6 @@ It should either be of the type: _Assosiation_, _Aggregation_ or _Composition_
     
 * [Account.java](https://github.com/dat16j/bank_example/blob/master/Account.java)
 * [Customer.java](https://github.com/dat16j/bank_example/blob/master/Customer.java)
-
-## Finnish your program
-This concludes the Object Oriented Analasys, Design and Programming circle.     
-As you will have noticed a lot of code is still missing for you to have a fully working bank example.    
-
-**Task:** Finish the program, and remember to update the affected diagram and use cases if somthing changes.
+     
+     
+&copy; Kea, clbo@kea.dk 2016
