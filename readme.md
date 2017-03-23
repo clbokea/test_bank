@@ -60,9 +60,6 @@ Error message,
 interest, interest rate, Account Number, 
 Customer Name     
 </pre>
-   
-## Domain Model
-**Task:** Based on the Noun List, create a  _Domain Model_ with named _Associations_ and _Multiplicity_      
 
 
      
